@@ -65,13 +65,13 @@ p {
     background-position: center;
 }
 
-/* Simple class to clean up the HTML: aligns left, then puts 25px of margin in between elements. */
+/* Simple class to clean up the HTML: aligns left, then puts 25px of margin in between elements */
 .float-left {
     float: left;
     margin-right: 25px;
 }
 
-/* Simple class to clean up the HTML: aligns right, then puts 25px of margin in between elements. */
+/* Simple class to clean up the HTML: aligns right, then puts 25px of margin in between elements */
 .float-right {
     float: right;
     margin-left: 25px;
@@ -100,13 +100,13 @@ text and color details */
     max-height: 200px;
 }
 
-/* margin and text info for the Headings of the content section*/
+/* margin and text info for the Headings of the content section */
 .panel h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
-/* The parameters for the aside. It is to the right of the main class, aligned to the right. */
+/* The parameters for the aside. It is to the right of the main class, aligned to the right */
 aside {
     margin-right: 20px;
     padding: 20px;
