@@ -1,11 +1,11 @@
-/* General Elements*/
+/* General Elements */
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
 
-/* Background Color of Body will be White*/
+/* Background Color of Body will be White */
 body {
     background-color: #d9dcd6;
 }
