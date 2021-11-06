@@ -9,5 +9,4 @@ You can access it at the following link! (https://sigmahs.github.io/Horiseon-Hw-
 
 Below is a preview of the website:
 
-![image](https://user-images.githubusercontent.com/64393443/140600736-b1e7b7a0-1962-4443-832e-038ef0d48e73.png)
-
+![screencapture-sigmahs-github-io-Horiseon-Hw-1-2021-11-05-23_47_19](https://user-images.githubusercontent.com/64393443/140600756-97ed732f-8b2e-45fc-9f18-d7456c4bae3d.png)
