@@ -1,6 +1,6 @@
 # Horiseon-Website, by Eric Zhong
 
-You can access this example website at the following link! (https://sigmahs.github.io/Horiseon-Hw-1/)
+You can access this example website at the following link! (https://sigmahs.github.io/Horiseon-Website/)
 
 Below is a preview of the website:
 
