@@ -1,4 +1,4 @@
-# Horiseon-Hw-1, by Eric Zhong
+# Horiseon-Website, by Eric Zhong
 
 This website is my submission for the first homework assignment on GitLab under the UCLA Extension Coding Course.
 This assignment focused on two main things, accessibility and readable code. The specifications were the following:
